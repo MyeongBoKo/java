@@ -5,6 +5,10 @@
  다른 생성자 호출할 때는 반드시 첫 줄에서만 호출이 가능하다.
  */
 
+/*
+ this - 인스턴스 자기 자신을 가리킨다. 인스턴스의 주소가 저장되어 있다. 모든 인스턴스메서드에 지역변수로 숨겨진 채로 존재한다.
+ */
+
 public class ThisMethod_This {
 
 	public static void main(String[] args) {
